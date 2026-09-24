@@ -1,0 +1,30 @@
+{
+  "name": "midicn · Music Knowledge",
+  "short_name": "Home",
+  "description": "【批次 M0】门户 —— 入门引导(30) + 通识文化(70) + 互动工具(18) + 全局搜索；顶部切换器显示为「首页」（总纲 §7.5）。词典已独立为 gloss 站。",
+  "start_url": "../en/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#E8C547",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
