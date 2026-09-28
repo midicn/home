@@ -1,7 +1,7 @@
 {
   "name": "midicn · Music Knowledge",
   "short_name": "Home",
-  "description": "【批次 M0】门户 —— 入门引导(30) + 通识文化(70) + 互动工具(18) + 全局搜索；顶部切换器显示为「首页」（总纲 §7.5）。词典已独立为 gloss 站。",
+  "description": "The gateway to midicn's music knowledge sites — theory, instruments, history, composers, genres, production and Chinese music, each with its own site and all cross-linked.",
   "start_url": "../en/",
   "scope": "./",
   "display": "standalone",

@@ -1,7 +1,7 @@
 {
   "name": "midicn · 音乐知识",
   "short_name": "首页",
-  "description": "【批次 M0】门户 —— 入门引导(30) + 通识文化(70) + 互动工具(18) + 全局搜索；顶部切换器显示为「首页」（总纲 §7.5）。词典已独立为 gloss 站。",
+  "description": "midicn 音乐知识的入口 —— 乐理、乐器、音乐史、作曲家、流派、制作与中国音乐各占一站，彼此链接成一张可深读的网。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
