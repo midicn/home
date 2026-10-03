@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>互动工具 · 音乐知识</title>
-<meta name="description" content="听辨练习与音乐小工具，正在陆续上线。">
+<title>互动工具：十八个可以直接点的听辨练习 · 音乐知识</title>
+<meta name="description" content="音程、音阶、和弦、进行、节奏、调、音色——每一件都能在浏览器里直接听">
 <link rel="canonical" href="https://midicn.com/tools/">
 <link rel="alternate" hreflang="zh-Hans" href="https://midicn.com/tools/">
 <link rel="alternate" hreflang="en" href="https://midicn.com/en/tools/">
 <link rel="alternate" hreflang="x-default" href="https://midicn.com/tools/">
-<meta property="og:title" content="互动工具 · 音乐知识">
-<meta property="og:description" content="听辨练习与音乐小工具，正在陆续上线。">
+<meta property="og:title" content="互动工具：十八个可以直接点的听辨练习 · 音乐知识">
+<meta property="og:description" content="音程、音阶、和弦、进行、节奏、调、音色——每一件都能在浏览器里直接听">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="zh_CN">
 <meta name="theme-color" content="#E8C547">
@@ -32,7 +32,7 @@ var L=navigator.languages||[navigator.language||'zh'];
 if(!L.some(function(x){return /^zh/i.test(String(x))})){
   localStorage.setItem('midicn-lang','en');location.replace('https://midicn.com/en/tools/');
 }}catch(e){}})();</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "互动工具", "description": "听辨练习与音乐小工具，正在陆续上线。", "inLanguage": "zh-Hans", "dateModified": "2026-09-28", "keywords": "工具, 听辨", "isPartOf": {"@type": "WebSite", "url": "https://midicn.com/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "互动工具：十八个可以直接点的听辨练习", "description": "音程、音阶、和弦、进行、节奏、调、音色——每一件都能在浏览器里直接听", "inLanguage": "zh-Hans", "dateModified": "2026-10-03", "keywords": "工具, 听辨, 互动", "isPartOf": {"@type": "WebSite", "url": "https://midicn.com/"}}</script>
 </head>
 <body>
 <header class="hbar">
@@ -44,21 +44,70 @@ if(!L.some(function(x){return /^zh/i.test(String(x))})){
   <a class="kb-lang" href="https://midicn.com/en/tools/" hreflang="en" data-setlang="en">EN</a>
 </header>
 <main class="doc doc-article">
-<nav class="kb-crumbs" aria-label="breadcrumb"><a href="https://midicn.com/">首页</a><span class="sep">›</span><span>互动工具</span></nav>
-<div class="kb-body"><h2 id="互动工具">互动工具</h2>
-<p>本站的工具区正在陆续上线，会陆续补上这几类：</p>
+<nav class="kb-crumbs" aria-label="breadcrumb"><a href="https://midicn.com/">首页</a><span class="sep">›</span><span>互动工具：十八个可以直接点的听辨练习</span></nav>
+<div class="kb-body"><p>这十八件工具都在浏览器里直接运行：<strong>不用安装，也不调用任何第三方服务。</strong></p>
+<p>声音由两种方式产生——<strong>合成音</strong>（零素材，实时生成）与<strong>音色试听</strong>（首次点击时载入采样库，约 28 MB，之后离线可用）。前者足够听清音高与音程关系，后者用于对比真实乐器的音色。</p>
+<h2 id="建议的用法">建议的用法</h2>
+<p>每件工具都是<strong>同一件事的可交互版本</strong>，不是独立的软件。三条实用建议：</p>
+<p>1. <strong>先做、再看</strong>。每页底部的「下一步」通向相关的通识篇 —— 工具负责让你听见，那批文章负责解释为什么。 2. <strong>卡在哪里就练哪一组</strong>。比如分不清大小三度，就不要从头练，只练那一对。 3. <strong>每次十分钟</strong>。听辨的进展靠频次，不靠单次时长。</p>
+<h2 id="音程-4-件">音程（4 件）</h2>
+<p>从「距离」这个概念开始，到跨八度的大跳：</p>
 <ul>
-<li><strong>听辨练习</strong> —— 音程、音阶、和弦与节奏的比对与自测。</li>
-<li><strong>和声演示</strong> —— 和弦与和声进行在页面里直接听。</li>
-<li><strong>工具小件</strong> —— 节拍器、调音参考这类常用小工具。</li>
+<li><a href="interval-basics/">音程是什么：八个距离，一次听清</a> —— 先建立「音程是距离不是高低」</li>
+<li><a href="interval-identification/">音程听辨练习：先听得出，再说出名字</a> —— 三层能力里，你卡在第几层</li>
+<li><a href="interval-quality/">大三度和小三度：一字之差</a> —— 最难的那一对，以及为什么难</li>
+<li><a href="interval-compound/">复合音程：八度之上那些「跳」</a> —— 宽音程要拆成两步听</li>
 </ul>
-<p>所有工具都在浏览器里直接运行：不用安装，也不调用任何第三方服务。每件工具上线后，都会在首页的快速入口里给出链接。</p>
-<p>还在找起点？<a href="../start/">新手入门：从这里开始</a> 是一份三十篇的引导——从「第一步做什么」到「考级是不是必须」，每篇回答一个问题，并在结尾告诉你下一步去哪。</p><section class="kb-sources"><h2 id="sources">事实来源</h2><ul><li>本站自订说明，据实描述本站工具区的开发现状</li></ul><p class="kb-note">仅用于核查事实，正文为原创撰写。</p></section></div>
+<h2 id="音阶与调式-3-件">音阶与调式（3 件）</h2>
+<p>同一个骨架，换不同的落脚点：</p>
+<ul>
+<li><a href="scale-compare/">同一个旋律，换三个调听</a> —— 转调换的不是内容，是比例</li>
+<li><a href="scale-pentatonic/">五声音阶：为什么它到处都存在</a> —— 不是简单，是没有需要回避的半音</li>
+<li><a href="scale-modes/">调式：同一个骨架，七种落脚点</a> —— 调式不是七套音阶</li>
+</ul>
+<h2 id="和弦-4-件">和弦（4 件）</h2>
+<p>从三和弦到挂留：</p>
+<ul>
+<li><a href="chord-quality/">三和弦的三种性质：大、小、减</a> —— 区别只在中间那个音的距离</li>
+<li><a href="chord-seventh/">七和弦：加一个音改变了什么</a> —— 从「颜色」变成了「句子」</li>
+<li><a href="chord-inversion/">转位：为什么 C 调不一定从 C 开始</a> —— 和弦的名字由最低音决定</li>
+<li><a href="chord-suspension/">挂留与变化音：和弦「还没解决」的那一秒</a> —— 挂留音不是和弦音，这就是张力</li>
+</ul>
+<h2 id="和声进行-2-件">和声进行（2 件）</h2>
+<p>单个和弦好用，连起来才是成品：</p>
+<ul>
+<li><a href="progression-basic/">三个最常见的和声进行</a> —— 为什么它们不是套路，是最省力</li>
+<li><a href="progression-cadence/">终止式：一句「话说完」的感觉从哪来</a> —— 两个音同时到达</li>
+</ul>
+<h2 id="节奏-2-件">节奏（2 件）</h2>
+<p>拍号与节奏型是两件事：</p>
+<ul>
+<li><a href="rhythm-metre/">拍号：3/4 与 4/4 听起来为什么不一样</a> —— 拍号说的是「每拍有多强」</li>
+<li><a href="rhythm-patterns/">常见节奏型：四分、八分、切分与附点</a> —— 节奏型说的是「每拍里发生了什么」</li>
+</ul>
+<h2 id="调-1-件">调（1 件）</h2>
+<ul>
+<li><a href="circle-of-fifths/">五度圈：十二个调的地图</a> —— 它是一把尺子，不是一张位置表</li>
+</ul>
+<h2 id="音色-2-件">音色（2 件）</h2>
+<ul>
+<li><a href="timbre-families/">音色家族：八类发声方式各是什么声音</a> —— 音色是「用什么办法让空气动起来」</li>
+<li><a href="instrument-compare/">同一段旋律换音色</a> —— 换的是声音还是音乐</li>
+</ul>
+<h2 id="关于这些工具的边界">关于这些工具的边界</h2>
+<p><strong>它们是听辨工具，不是学习教材。</strong> 每件工具能告诉你「听出来是这样」，但「为什么是这样」在通识那批文章里。</p>
+<p><strong>它们也不能替代真人指导。</strong> 练耳卡在平台期时，需要的是有人指出你卡在哪——<strong>那件事机器做不了</strong>（详见<a href="../culture/finding-a-teacher/">怎么判断一个好老师</a>）。</p>
+<h2 id="下一步">下一步</h2>
+<ul>
+<li>不确定该练哪件：从<a href="../start/">新手入门</a>开始</li>
+<li>通识与文化：<a href="../culture/">通识与文化七十篇</a></li>
+<li>音乐词典：<a href="https://gloss.midicn.com/">gloss.midicn.com</a></li>
+</ul><section class="kb-sources"><h2 id="sources">事实来源</h2><ul><li>本站自订说明，据实描述本站工具区的功能与实现方式</li></ul><p class="kb-note">仅用于核查事实，正文为原创撰写。</p></section></div>
 </main>
 <footer class="foot">
   <div class="footwrap">
     <div class="footline"><nav class="kb-switch" aria-label="midicn"><a href="https://midicn.com/" aria-current="page">首页</a><a href="https://gloss.midicn.com/">音乐词典</a><a href="https://hist.midicn.com/">音乐史</a><a href="https://comp.midicn.com/">作曲家</a><a href="https://theo.midicn.com/">乐理与和声</a><a href="https://inst.midicn.com/">乐器图鉴</a><a href="https://gen.midicn.com/">流派与风格</a><a href="https://prod.midicn.com/">制作与数字音乐</a><a href="https://cn.midicn.com/">中国音乐</a><span class="kb-switch-sep" aria-hidden="true">/</span><a href="https://lib.midicn.com/">音乐库</a><a href="https://mid.midicn.com/">维度浏览</a><a href="https://zip.midicn.com/">包下载</a><a href="https://sf.midicn.com/">音色库</a></nav></div>
-    <p class="footnote">内容原创，依 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a> 授权（可商用、可改写，须署名）。曲目数据来自 <a href="https://lib.midicn.com/">midicn-lib</a>，许可逐曲标注，本站不改变原许可；本站内容为通识性说明，不构成专业意见，许可状态以 midicn-lib 台账为准。</p><p class="footmeta"><span class="footlinks"><a href="https://midicn.com/legal/terms/">使用条款</a> · <a href="https://midicn.com/legal/privacy/">隐私政策</a> · <a href="https://midicn.com/legal/disclaimer/">免责声明</a> · <a href="https://midicn.com/legal/copyright/">版权与侵权通知</a></span><span class="footcore">内核 v0.6.1</span></p>
+    <p class="footnote">内容原创，依 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh">CC BY 4.0</a> 授权（可商用、可改写，须署名）。曲目数据来自 <a href="https://lib.midicn.com/">midicn-lib</a>，许可逐曲标注，本站不改变原许可；本站内容为通识性说明，不构成专业意见，许可状态以 midicn-lib 台账为准。</p><p class="footmeta"><span class="footlinks"><a href="https://midicn.com/legal/terms/">使用条款</a> · <a href="https://midicn.com/legal/privacy/">隐私政策</a> · <a href="https://midicn.com/legal/disclaimer/">免责声明</a> · <a href="https://midicn.com/legal/copyright/">版权与侵权通知</a></span><span class="footcore">内核 v0.6.2</span></p>
   </div>
 </footer>
 <div id="player" class="pbar" hidden>
@@ -71,7 +120,7 @@ if(!L.some(function(x){return /^zh/i.test(String(x))})){
     <button type="button" class="kb-lab-btn" data-pbar="stop">停止</button>
   </div>
 </div>
-<script>window.__KB__={"site": "home", "core": "0.6.1", "lang": "zh", "lbl": {"play": "播放", "pause": "暂停", "toc": "本页目录"}};</script>
+<script>window.__KB__={"site": "home", "core": "0.6.2", "lang": "zh", "lbl": {"play": "播放", "pause": "暂停", "toc": "本页目录"}};</script>
 <script defer src="https://lib.midicn.com/vendor/Tone.js"></script>
 <script defer src="https://lib.midicn.com/vendor/Midi.js"></script>
 <script defer src="../assets/core/player/player.js"></script>
