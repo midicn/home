@@ -36,6 +36,7 @@ jobs:
           set -e
           mkdir -p _build
           cp index.html manifest.webmanifest robots.txt sitemap.xml 404.html sw.js _build/
+          [ -f search-index.json ] && cp search-index.json _build/ || true
           cp -r assets _build/assets
 
           python3 - <<'PY'
