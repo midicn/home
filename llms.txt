@@ -1,35 +1,35 @@
-# MIDI音乐 · MIDI音乐
+# midicn · midicn
 
 > 听音乐，学音乐，做音乐。
 
-MIDI音乐：听音乐，学音乐，做音乐。查找MIDI曲库、音色库、乐理、乐器、音乐史、词典与音乐制作资料。
+midicn：听音乐，学音乐，做音乐。查找MIDI曲库、音色库、乐理、乐器、音乐史、词典与音乐制作资料。
 
 这是网站内容入口索引。收录与引用不改变原文、曲目、音色或歌词的许可；本文件不授予模型训练权。
 This curated discovery index grants no model-training or third-party material rights.
 
 ## 网站与使用说明
 
-- [MIDI音乐：站点与使用说明](https://home.midicn.com/about/): 品牌、分站、来源与反馈。
+- [midicn：站点与使用说明](https://midicn.com/about/): 品牌、分站、来源与反馈。
 
 ## 内容入口
 
-- [MIDI音乐 · midicn](https://home.midicn.com/): MIDI音乐：听音乐，学音乐，做音乐。查找MIDI曲库、音色库、乐理、乐器、音乐史、词典与音乐制作资料。
-- [学音乐｜MIDI音乐](https://home.midicn.com/learn/): 从想弄懂的问题开始，找到乐理、乐器、音乐史和词典里的具体内容。
-- [做音乐｜MIDI音乐](https://home.midicn.com/make/): 从写歌、编曲到录音和混音，按手头要做的事找内容。
-- [关于MIDI音乐 · MIDI音乐](https://home.midicn.com/about/): 分站内容、使用方式、来源与反馈
-- [成人音乐教育：和儿童班完全不同的设计 · MIDI音乐](https://home.midicn.com/culture/adult-education/): 成人学的不是技能，是把一件被打断的事做完的能力
-- [专辑时代：怎么开始，又怎么结束 · MIDI音乐](https://home.midicn.com/culture/album-era/): 专辑不是自然的单位，是媒介的孩子——这一代孩子已长大
-- [背景音乐的利与弊：一边工作一边听 · MIDI音乐](https://home.midicn.com/culture/background-music/): 它既不是「专注神器」也不是「效率毒药」——依任务、依人、依音乐
-- [知识共享（CC）许可家族：六个组合怎么读 · MIDI音乐](https://home.midicn.com/culture/cc-license-family/): 标准化许可 = 作者预先说好「哪些自由当场给你」
-- [中国著作权法的音乐条款：语境与要点 · MIDI音乐](https://home.midicn.com/culture/china-copyright-notes/): 理解中国的音乐版权，先抓住几条「中国定语」
-- [一首歌上有几层权利 · MIDI音乐](https://home.midicn.com/culture/copyright-composition/): 作品、录音、表演——一首歌在制度上是「一叠」东西
-- [保护期怎么算：50 年、70 年与「公有领域」 · MIDI音乐](https://home.midicn.com/culture/copyright-duration/): 保护期是有限的——有限，是制度设计的一部分
-- [版权常见误区：十条说法十条回应 · MIDI音乐](https://home.midicn.com/culture/copyright-myths/): 它们都在「听起来对」和「真的对」之间——逐条清点
-- [翻唱要不要授权：两条轨道的区别 · MIDI音乐](https://home.midicn.com/culture/cover-vs-copy/): 重新演唱和搬运录音，是两件性质完全不同的事
-- [耳虫：洗脑旋律是怎么钻进脑子的 · MIDI音乐](https://home.midicn.com/culture/earworms/): 不是脑子坏了——是记忆系统在正常运转，只是忘了「关机」
-- [音乐怎么引发情绪：期待与解决 · MIDI音乐](https://home.midicn.com/culture/emotion-mechanism/): 音乐不携带情绪——它建造期待，然后满足你、延迟你、或骗你
-- [考级体系面面观：它们各自在考什么 · MIDI音乐](https://home.midicn.com/culture/exam-systems/): 考级不是难度刻度，是能力抽样；抽的是哪一面要看清楚
+- [midicn · midicn](https://midicn.com/): midicn：听音乐，学音乐，做音乐。查找MIDI曲库、音色库、乐理、乐器、音乐史、词典与音乐制作资料。
+- [学音乐｜midicn](https://midicn.com/learn/): 从想弄懂的问题开始，找到乐理、乐器、音乐史和词典里的具体内容。
+- [做音乐｜midicn](https://midicn.com/make/): 从写歌、编曲到录音和混音，按手头要做的事找内容。
+- [关于midicn · midicn](https://midicn.com/about/): 分站内容、使用方式、来源与反馈
+- [成人音乐教育：和儿童班完全不同的设计 · midicn](https://midicn.com/culture/adult-education/): 成人学的不是技能，是把一件被打断的事做完的能力
+- [专辑时代：怎么开始，又怎么结束 · midicn](https://midicn.com/culture/album-era/): 专辑不是自然的单位，是媒介的孩子——这一代孩子已长大
+- [背景音乐的利与弊：一边工作一边听 · midicn](https://midicn.com/culture/background-music/): 它既不是「专注神器」也不是「效率毒药」——依任务、依人、依音乐
+- [知识共享（CC）许可家族：六个组合怎么读 · midicn](https://midicn.com/culture/cc-license-family/): 标准化许可 = 作者预先说好「哪些自由当场给你」
+- [中国著作权法的音乐条款：语境与要点 · midicn](https://midicn.com/culture/china-copyright-notes/): 理解中国的音乐版权，先抓住几条「中国定语」
+- [一首歌上有几层权利 · midicn](https://midicn.com/culture/copyright-composition/): 作品、录音、表演——一首歌在制度上是「一叠」东西
+- [保护期怎么算：50 年、70 年与「公有领域」 · midicn](https://midicn.com/culture/copyright-duration/): 保护期是有限的——有限，是制度设计的一部分
+- [版权常见误区：十条说法十条回应 · midicn](https://midicn.com/culture/copyright-myths/): 它们都在「听起来对」和「真的对」之间——逐条清点
+- [翻唱要不要授权：两条轨道的区别 · midicn](https://midicn.com/culture/cover-vs-copy/): 重新演唱和搬运录音，是两件性质完全不同的事
+- [耳虫：洗脑旋律是怎么钻进脑子的 · midicn](https://midicn.com/culture/earworms/): 不是脑子坏了——是记忆系统在正常运转，只是忘了「关机」
+- [音乐怎么引发情绪：期待与解决 · midicn](https://midicn.com/culture/emotion-mechanism/): 音乐不携带情绪——它建造期待，然后满足你、延迟你、或骗你
+- [考级体系面面观：它们各自在考什么 · midicn](https://midicn.com/culture/exam-systems/): 考级不是难度刻度，是能力抽样；抽的是哪一面要看清楚
 
 ## English
 
-- [MIDI Music](https://home.midicn.com/en/): Listen, learn and make music.
+- [midicn](https://midicn.com/en/): Listen, learn and make music.

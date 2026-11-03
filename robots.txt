@@ -120,4 +120,4 @@ Disallow: /en/tools/scale-pentatonic/
 Disallow: /404.html
 Disallow: /en/make/
 
-Sitemap: https://home.midicn.com/sitemap.xml
+Sitemap: https://midicn.com/sitemap.xml
