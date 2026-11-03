@@ -16,7 +16,7 @@ This curated discovery index grants no model-training or third-party material ri
 - [midicn · midicn](https://midicn.com/): midicn：听音乐，学音乐，做音乐。查找MIDI曲库、音色库、乐理、乐器、音乐史、词典与音乐制作资料。
 - [学音乐｜midicn](https://midicn.com/learn/): 从想弄懂的问题开始，找到乐理、乐器、音乐史和词典里的具体内容。
 - [做音乐｜midicn](https://midicn.com/make/): 从写歌、编曲到录音和混音，按手头要做的事找内容。
-- [关于midicn · midicn](https://midicn.com/about/): 分站内容、使用方式、来源与反馈
+- [关于midicn · midicn](https://midicn.com/about/): 始于1999年的音乐故事，以及今天的midicn
 - [成人音乐教育：和儿童班完全不同的设计 · midicn](https://midicn.com/culture/adult-education/): 成人学的不是技能，是把一件被打断的事做完的能力
 - [专辑时代：怎么开始，又怎么结束 · midicn](https://midicn.com/culture/album-era/): 专辑不是自然的单位，是媒介的孩子——这一代孩子已长大
 - [背景音乐的利与弊：一边工作一边听 · midicn](https://midicn.com/culture/background-music/): 它既不是「专注神器」也不是「效率毒药」——依任务、依人、依音乐
